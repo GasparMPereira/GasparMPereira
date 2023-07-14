@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align='center'> Hi there 👋, I'm Gaspar  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋,<br>I'm Gaspar  👨‍💻 </h1>
 
 <p align='center'>
   I live in Portugal and i study at <b>IPL-ESTG</b> 
@@ -7,7 +7,7 @@
 
 <p align='center'>
   <a href="https://instagram.com/gaspar.mpereira"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/stefanyvasconcelos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gasparpereira04"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:gaspar.10pereira@gmail.com?subject=Olá%20Gaspar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
