@@ -39,7 +39,7 @@
   <a href="https://stefanysa.netlify.app/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>-->
 
-![NAME github stats](https://github-readme-stats.vercel.app/apiusername=GasparMPereira&show_icons=true)
+![NAME github stats](https://github-readme-stats.vercel.app/apiusername=gasparmpereira&show_icons=true)
 <hr>
 
 
