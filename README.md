@@ -42,7 +42,6 @@
 ![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=compact)
 <hr>
-<br>
 <p align="center">
   <h5>🎮 To have fun and spend time...</h5>
   <a href="https://open.spotify.com/user/gaspar.10pereira"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
