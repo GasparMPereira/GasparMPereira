@@ -40,8 +40,8 @@
 </p>-->
 <hr>
 
-![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=compact)
+![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=compact&theme=github_dark)
 
 <hr>
 <p align="center">
