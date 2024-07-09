@@ -48,6 +48,8 @@
 ![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark&border_color=424141)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=compact&theme=github_dark&border_color=424141)
 
+![Stats](https://profile-summary-for-github.com/user/GasparMPereira)
+
 <hr>
 <p align="center">
   <h5>🎮 To have fun and spend time...</h5>
