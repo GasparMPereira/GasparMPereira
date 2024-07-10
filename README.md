@@ -45,8 +45,8 @@
 </p>-->
 <hr>
 
-  ![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark&border_color=424141)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=donut&theme=github_dark&border_color=424141)
+![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark&border_color=424141)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=donut&theme=github_dark&border_color=424141)
 
 
 <hr>
@@ -54,10 +54,6 @@
   <h5>🎮 To have fun and spend time...</h5>
   <a href="https://open.spotify.com/user/gaspar.10pereira"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/ProfessorBambu/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <div style="color: #fff; background-color: #1db954; display: flex;">
-        <img style="max-width: 60px;" src="./spotify.svg">
-        <p>Spotify</p>
-  </div>
 </p>
 
 <!--
