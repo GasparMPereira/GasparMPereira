@@ -47,8 +47,8 @@
 </p>-->
 <hr>
 <p align="center">
-  ![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark&border_color=424141)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=donut&theme=github_dark&border_color=424141)
+  [![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark&border_color=424141)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=donut&theme=github_dark&border_color=424141)]
 </p>p
 
 <hr>
