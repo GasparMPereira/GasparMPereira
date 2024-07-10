@@ -46,9 +46,10 @@
   <a href="https://stefanysa.netlify.app/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>-->
 <hr>
-
-![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark&border_color=424141)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=compact&theme=github_dark&border_color=424141)
+<p align="center">
+  ![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark&border_color=424141)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=donut&theme=github_dark&border_color=424141)
+</p>p
 
 <hr>
 <p align="center">
