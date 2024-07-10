@@ -55,8 +55,7 @@
   <a href="https://open.spotify.com/user/gaspar.10pereira"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/ProfessorBambu/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <div style="color: #fff; background-color: #1db954; display: flex;">
-        ![Alt text](./spotify.svg)
-<img src="./spotify.svg">
+        <img style="max-width: 60px;" src="./spotify.svg">
         <p>Spotify</p>
   </div>
 </p>
