@@ -9,9 +9,7 @@
   <a href="https://instagram.com/gaspar.mpereira"><img src="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gasparpereira04"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:gaspar.10pereira@gmail.com?subject=Olá%20Gaspar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
-
 
 <hr>
 
@@ -47,8 +45,8 @@
 </p>-->
 <hr>
 <p align="center">
-  [![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark&border_color=424141)]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=donut&theme=github_dark&border_color=424141)]
+  ![NAME github stats](https://github-readme-stats.vercel.app/api?username=gasparmpereira&show_icons=true&theme=github_dark&border_color=424141)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmpereira&layout=donut&theme=github_dark&border_color=424141)
 </p>p
 
 <hr>
