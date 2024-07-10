@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.5.2/css/all.css">
+      
 <!-- ### Hi there 👋 -->
 <h1 align='center'> Hi there 👋,<br>I'm Gaspar  👨‍💻 </h1>
 
@@ -54,6 +56,7 @@
   <h5>🎮 To have fun and spend time...</h5>
   <a href="https://open.spotify.com/user/gaspar.10pereira"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/ProfessorBambu/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <i class="fa-brands fa-spotify"></i>
 </p>
 
 <!--
