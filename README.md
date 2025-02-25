@@ -15,7 +15,7 @@
 
 <h3 align="left">📚 Languages and Tools:</h3>
 <p align="center"><a href="https://github.com/GasparMPereira">
-    <img src="https://skillicons.dev/icons?perline=14&i=react,flutter,androidstudio,arduino,bash,blender,bootstrap,c,cs,cpp,css,discordjs,dotnet,firebase,html,js,jquery,kotlin,laravel,lua,mongodb,mysql,nodejs,ps,php,py,raspberrypi,vscode" />
+    <img src="https://skillicons.dev/icons?perline=14&i=flutter,androidstudio,arduino,bash,blender,bootstrap,c,cs,cpp,css,discordjs,dotnet,firebase,html,js,jquery,kotlin,laravel,lua,mongodb,mysql,nodejs,ps,php,py,raspberrypi,vscode" />
 </a></p>
 
 
